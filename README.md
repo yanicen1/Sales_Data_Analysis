@@ -22,4 +22,4 @@
 
 
 ## Solution
-The solution is available in the form of dashboards within the [Project_1](https://github.com/yanicen1/Sales_Data_Analysis/blob/main/Project_(ABC_without_categories).pbix) file, where the ABC analysis of items is conducted without category segmentation, and Project_2, where the ABC analysis of items is conducted with category segmentation. You can view the dashboard layouts in a PDF file. The data set is presented here.
+The solution is available in the form of dashboards within the [Project_1](https://github.com/yanicen1/Sales_Data_Analysis/blob/main/Project_(ABC_without_categories).pbix) file, where the ABC analysis of items is conducted without category segmentation, and Project_2, where the ABC analysis of items is conducted with category segmentation. You can view the dashboard layouts in this [PDF file](https://github.com/yanicen1/Sales_Data_Analysis/blob/main/Project_(ABC_without_categories).pdf). The data set is presented [here](https://github.com/yanicen1/Sales_Data_Analysis/blob/main/Dataset.xlsx).
