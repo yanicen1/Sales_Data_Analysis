@@ -1,4 +1,4 @@
-### Sales Data Analysis
+## Sales Data Analysis
 
 <b>Technical Task</b>
 
@@ -18,4 +18,8 @@
 
 3. Perform an ABC analysis of items and present the results in a table.
   
-4. Display a table listing managers who have generated negative profits along with the number of orders with negative profits.
+4. Display a table listing managers who have generated negative profits and the number of orders with negative profits.
+
+
+## Solution
+The solution is presented in Project_1 where the ABC analysis of items is conducted without splitting by categories, and Project_2 where the ABC analysis of items is conducted with splitting by categories.
