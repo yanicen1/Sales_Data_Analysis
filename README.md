@@ -22,4 +22,4 @@
 
 
 ## Solution
-The solution is presented in Project_1 where the ABC analysis of items is conducted without splitting by categories, and Project_2 where the ABC analysis of items is conducted with splitting by categories.
+The solution is presented in [Project_1] (https://github.com/yanicen1/Sales_Data_Analysis/blob/main/Project_(ABC_without_categories).pbix) where the ABC analysis of items is conducted without splitting by categories, and Project_2 where the ABC analysis of items is conducted with splitting by categories.
